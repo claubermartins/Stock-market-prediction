@@ -9,3 +9,6 @@
 
 **IDEs Utilizadas**
  - ⚡ Jupyter Notebook e Spyder. 
+
+**Ações Estudadas**
+ - ✨ Petrobras; Vale; Ambev; Bradesco; Usiminas; MRV.
