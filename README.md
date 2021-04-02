@@ -13,7 +13,7 @@
 **Ações Estudadas**
  - ✨ Petrobras; Vale; Ambev; Bradesco; Usiminas; MRV.
 
-**Para maiores informações, consulte o site da documentação**:
+**Para maiores informações sobre o uso das bibliotecas, consulte o site da documentação do keras**:
 <p align="left">
   <a href="https://keras.io/api/">Documentação</a>
 </p>
