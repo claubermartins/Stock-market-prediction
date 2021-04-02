@@ -15,5 +15,5 @@
 
 **Para maiores informações, consulte o site da documentação**:
 <p align="left">
-  <a href="https://keras.io/api/">Documentação</a> •
+  <a href="https://keras.io/api/">Documentação</a>
 </p>
